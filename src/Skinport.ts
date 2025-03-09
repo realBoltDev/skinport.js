@@ -11,7 +11,7 @@ import type {
   TransactionsResponse
 } from "./types/index.js";
 
-export class Skinport {
+export default class Skinport {
   private api: AxiosInstance;
   private _socket?: ExtendedSocket;
 
