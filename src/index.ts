@@ -1,1 +1,1 @@
-export { Skinport } from "./Skinport.js";
+export { default } from "./Skinport.js";
