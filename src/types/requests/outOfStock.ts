@@ -1,4 +1,4 @@
-import type { Nullable } from "../common/index.js";
+import type { Nullable } from "../shared.js";
 
 interface OutOfStockItem {
   market_hash_name: string;
