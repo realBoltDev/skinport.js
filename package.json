@@ -1,6 +1,6 @@
 {
   "name": "skinport.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A fully typed package for interacting with Skinport API.",
   "type": "module",
   "types": "dist/index.d.ts",
