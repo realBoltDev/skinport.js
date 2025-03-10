@@ -1,4 +1,4 @@
-import type { Nullable } from "../common/index.js";
+import type { Nullable } from "../shared.js";
 
 interface PriceStats {
   min: number;
